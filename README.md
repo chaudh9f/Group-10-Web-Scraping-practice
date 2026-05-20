@@ -84,6 +84,10 @@ Web-Scraping-Project/
 ├── README.md
 └── HBK-link.csv
 ```
-
+Author 
+Samjhana Chaudhary
+Jenil Sanjaybhai Patel
+Kratik Agrawal
+Sabina Pun
 
 
